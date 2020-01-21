@@ -1,0 +1,43 @@
+h1{
+	text-align: center;
+}
+
+.gushipa{
+	text-align: center;	
+}
+
+.select{
+	margin-top:20px;
+	text-align: center;	
+}
+
+.selectbtn{
+	padding: 10px 30px;
+	margin:0 20px;
+	border-radius: 30px;
+	background-color:white;
+	font-weight: bold;
+}
+
+.reset{
+	margin-top:20px;
+	text-align: center;	
+}
+
+.resetbtn{
+	padding: 10px 30px;
+	margin:0 20px;
+	border-radius: 10px;
+	background-color:white;
+	font-weight: bold;
+	border-color:black;
+}
+
+.result{
+	margin-top:20px;
+	text-align: center;
+}
+
+p{
+	font-weight: bold;
+}
