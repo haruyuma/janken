@@ -14,7 +14,7 @@ function slideshow_timer(){
     }
     if(temp == 3){
         document.getElementById("mypic").src=pics_src[num];
-        setTimeout("slideshow_timer()",100);
+        setTimeout("slideshow_timer()",500);
     }else if(temp == 0){
         document.getElementById("mypic").src=pics_src[0];
     }else if(temp == 1){
